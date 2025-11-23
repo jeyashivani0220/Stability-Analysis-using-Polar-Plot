@@ -40,7 +40,7 @@ end
 ~~~
 
 ## Output:
-<img width="1468" height="970" alt="Screenshot 2025-11-16 140859" src="https://github.com/user-attachments/assets/0dbcc90f-e98d-4261-9d88-894c5732355c" />
+<img width="1422" height="720" alt="Screenshot 2025-11-23 163219" src="https://github.com/user-attachments/assets/626c7d04-d1b6-467b-931f-546935508362" />
 
 ## Result:
 Thus the polar plot for the given transfer function was drawn and verified using MATLAB. <br>
